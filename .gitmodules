@@ -1,0 +1,12 @@
+[submodule "charts-backend"]
+	path = charts-backend
+	url = git@github.com:wikinalysis/wiki-charts-backend.git
+[submodule "charts-frontend"]
+	path = charts-frontend
+	url = git@github.com:wikinalysis/wiki-charts.git
+[submodule "database"]
+	path = database
+	url = git@github.com:wikinalysis/wiki-database.git
+[submodule "load-data"]
+	path = load-data
+	url = git@github.com:wikinalysis/wiki-data-load.git
